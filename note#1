@@ -1,5 +1,15 @@
 SQL allows for four types of commands:
-  Create
-  Read
-  Update
-  Delete
+  Create, Insert
+  Read - Select
+  Update 
+  Delete, Drop
+
+
+SQL supports many commands to access data, including:
+  AVG
+  COUNT
+  DISTINCT
+  LOWER
+  MAX
+  MIN
+  UPPER 
